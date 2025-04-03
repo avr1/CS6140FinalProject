@@ -11,12 +11,12 @@ demographic data about adults. The authors used the census information to predic
 person’s annual income was above or below $50k. <https://archive.ics.uci.edu/dataset/2/adult>
 
 File Structure of our dataset:
-File						Size
-adult.data					3.8 MB
-adult.test					1.9 MB
-adult.names					5.1 KB
-old.adult.names				4.2 KB
-Index						140 Bytes
+
+1. adult.data					3.8 MB 
+2. adult.test					1.9 MB
+3. adult.names					5.1 KB
+4. old.adult.names				4.2 KB
+5. Index						140 Bytes
 
 ### Objective
 
