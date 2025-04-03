@@ -10,6 +10,14 @@ We’re planning to use the “Adult” Dataset from UCI’s Machine Learning Re
 demographic data about adults. The authors used the census information to predict whether the
 person’s annual income was above or below $50k. <https://archive.ics.uci.edu/dataset/2/adult>
 
+File Structure of our dataset:
+File						Size
+adult.data					3.8 MB
+adult.test					1.9 MB
+adult.names					5.1 KB
+old.adult.names				4.2 KB
+Index						140 Bytes
+
 ### Objective
 
 For our project, we’d like to take a thorough look at each of the variables in the dataset and evaluate
