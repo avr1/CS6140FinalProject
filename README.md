@@ -12,11 +12,11 @@ person’s annual income was above or below $50k. <https://archive.ics.uci.edu/d
 
 File Structure of our dataset:
 
-1. adult.data					3.8 MB 
-2. adult.test					1.9 MB
-3. adult.names					5.1 KB
-4. old.adult.names				4.2 KB
-5. Index						140 Bytes
+1. adult.data					
+2. adult.test					
+3. adult.names					
+4. old.adult.names		
+5. Index						
 
 ### Objective
 
@@ -34,6 +34,7 @@ analyses to produce a consolidated report about the dependent variable from our 
 At this point, we should have a good idea of which features are the most important. Then, we can
 experiment with training the models on specific subsets of features, and find which combinations of
 classification methods and features yield the best prediction results.
+Lastly, we aim to produce a report in the form of a paper, showcasing all the results we have obtained via our prior methods and findings.
 
 ### Evaluation
 
